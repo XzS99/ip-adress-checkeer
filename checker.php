@@ -31,4 +31,7 @@ echo '</div>';
     </style>
     <title>Check</title>
 </head>
+<footer>
+    <p>Created by Wesam Jarrah. © 2022</p>
+</footer>
 </html>

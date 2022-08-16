@@ -56,6 +56,10 @@
         <label for="ip">Enter the IP address!</label>
         <input type="submit" value="Send">
     </form>
+    <footer>
+        <p>Created by Wesam Jarrah. © 2022</p>
+    </footer>
+
 </div>
 </body>
 </html>
